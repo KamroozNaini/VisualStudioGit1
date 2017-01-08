@@ -14,6 +14,7 @@ namespace VisualStudioProject1
         [STAThread]
         static void Main()
         {
+            // now I am making another change 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
